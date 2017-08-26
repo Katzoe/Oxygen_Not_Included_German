@@ -16,12 +16,12 @@ msgstr ""
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
 msgid "Uses: {0}"
-msgstr ""
+msgstr "Benutzungen: {0}"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP"
 msgid "This building has been used {0} times"
-msgstr ""
+msgstr "Dieses Gebäude wurde {0} mal benutzt"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
@@ -31,7 +31,7 @@ msgstr "Zugriffsbeschränkungen"
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP"
 msgid "Some Duplicants are prohibited from passing through this door by the current access settings"
-msgstr "Einigen Duplikanten ist es verboten, diese Tür durch die aktuellen Zugangseinstellungen zu benutzen"
+msgstr "Aufgrund der aktuellen Zugangseinstellungen ist es einigen Duplikanten verboten diese Tür zu benutzen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
@@ -41,7 +41,7 @@ msgstr "Zugriffskontrolle offline"
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
 msgid "This door has granted Emergency Access Permissions\n------------------\nAll Duplicants are permitted to pass through it until power is restored"
-msgstr "Diese Tür hat Notfallzugriffsberechtigungen aktiviert\n------------------\nAlle Duplikanten können die Türe benutzen, bis die Stromversorgung wiederhergestellt ist"
+msgstr "Diese Tür hat Notfallzutrittsberechtigungen erteilt\n------------------\nAllen Duplikanten wird erlaubt die Tür zu passieren, bis die Stromversorgung wiederhergestellt ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
@@ -86,7 +86,7 @@ msgstr "Dieses Gebäude erfordert die künstlerische Note eines Duplikanten"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
 msgid "Requires Flipping"
-msgstr "Muss umgesetzt werden"
+msgstr "Muss umgegraben werden"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
@@ -196,7 +196,7 @@ msgstr "Dieses Objekt kann die Umgebung nicht unter {0} kühlen"
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr "Warte auf Änderung des Türstatus: {ControlState}"
+msgstr "Anstehende Änderung des Türstatus: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
